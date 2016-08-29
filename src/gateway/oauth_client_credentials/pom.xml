@@ -21,9 +21,9 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>apigee</groupId>
-    <artifactId>hotelsapi</artifactId>
+    <artifactId>oauth_client_credentials</artifactId>
     <version>1.0</version>
-    <name>hotelsapi</name>
+    <name>oauth_client_credentials</name>
     <packaging>pom</packaging>
 <!-- optional tests
     <profiles>
